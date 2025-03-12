@@ -11,7 +11,9 @@ Unity custom layout show/hide c# scripts
 
 ![image](https://github.com/user-attachments/assets/4ea0e5ca-3fba-437e-bd8a-59f3fe0f59a8)
 
- ++ Animator Parameters anme is "Hide" and "Show"
+ !! Animator Parameters name is "Hide" and "Show"
+ ![image](https://github.com/user-attachments/assets/2f1635d9-8b18-4341-926b-2d9948672556)
+
 
 ** Game **
 
