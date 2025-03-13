@@ -7,6 +7,7 @@ Unity custom layout show/hide c# scripts
 
 
 
+---------------------------------------------------------------------------------------------
 ** Animator **
 
 ![image](https://github.com/user-attachments/assets/b2a4bc2c-5603-448f-9b08-2ccf0e1e0edc)
@@ -17,15 +18,20 @@ Unity custom layout show/hide c# scripts
  
  !! And Main Panel Animator Parameters name is "Expand" and "Shrink"
  
- ![image](https://github.com/user-attachments/assets/2f1635d9-8b18-4341-926b-2d9948672556)
+![image](https://github.com/user-attachments/assets/58299bd3-5076-4172-8d2c-797739ca496f)
+
+![image](https://github.com/user-attachments/assets/95b8cefa-808f-4280-96bb-06b09d16a916)
 
 
+
+---------------------------------------------------------------------------------------------
 
 ** Game **
 
-![image](https://github.com/user-attachments/assets/40a53c09-7eda-4de5-bf5a-2e5c13e92385)
+![image](https://github.com/user-attachments/assets/05b297f0-70c1-4bb0-ac7b-feb5763af68a)
 
-![image](https://github.com/user-attachments/assets/bfc713ba-a1d9-4909-984a-66453a1a2a33)
+![image](https://github.com/user-attachments/assets/431242da-9255-465a-92da-f62bf95fb567)
+
 
 
 
